@@ -1,28 +1,60 @@
 {
-    "transactions" : [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-03-15T16:31:59.295Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2024-03-15T16:55:59.295Z"
-        },
-        {
-            "id": 3,
-            "description": "Ignite Rocketseat",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 1980,
-            "createdAt": "2024-03-19T16:55:59.295Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-03-15T16:31:59.295Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2024-03-15T16:55:59.295Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-03-19T16:55:59.295Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2024-04-03T01:25:49.174Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel de queijo",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2024-04-03T01:32:26.310Z",
+      "id": 5
+    },
+    {
+      "description": "Caldo de cana",
+      "price": 6,
+      "category": "Alimenta",
+      "type": "outcome",
+      "createdAt": "2024-04-03T01:34:27.215Z",
+      "id": 6
+    },
+    {
+      "description": "Venda de jogo do bicho",
+      "price": 1200,
+      "category": "Loteria esportiva",
+      "type": "income",
+      "createdAt": "2024-04-03T01:49:11.829Z",
+      "id": 7
+    }
+  ]
 }
