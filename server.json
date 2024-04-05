@@ -55,6 +55,14 @@
       "type": "income",
       "createdAt": "2024-04-03T01:49:11.829Z",
       "id": 7
+    },
+    {
+      "description": "Venda de bala de banana",
+      "price": 12,
+      "category": "Alimentação",
+      "type": "income",
+      "createdAt": "2024-04-04T23:57:40.885Z",
+      "id": 8
     }
   ]
 }
