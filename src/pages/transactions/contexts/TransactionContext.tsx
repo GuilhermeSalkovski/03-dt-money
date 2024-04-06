@@ -61,7 +61,7 @@ const createTransaction = useCallback(async (data: CreateTransactionData) => {
 
   useEffect(() => {
     fetchTransactions()
-  }, []);
+  }, [fetchTransactions]);
 
   return (
     <TransactionsContext.Provider value={{
